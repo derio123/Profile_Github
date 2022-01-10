@@ -1,0 +1,26 @@
+.photo {
+    margin-top: 10px;
+    border-radius: 1000px;
+    width: 10rem;
+    height: 10rem;
+}
+
+.text-login {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #903;
+}
+
+.text-bio {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #903390;
+}
+
+.text-location {
+
+}
+
+.text-blog {
+    
+}
